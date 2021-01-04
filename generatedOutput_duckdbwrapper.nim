@@ -1,7 +1,9 @@
-
+# Removing /home/rcaillaud/.cache/nim/nimterop/duckdb
+# Downloading libduckdb-linux-amd64.zip
+# Extracting libduckdb-linux-amd64.zip
 # Extracting /home/rcaillaud/.cache/nim/nimterop/duckdb/libduckdb-linux-amd64.zip
 # Importing /home/rcaillaud/.cache/nim/nimterop/duckdb/duckdb.h
-# Generated @ 2021-01-04T16:02:09+01:00
+# Generated @ 2021-01-04T16:09:08+01:00
 # Command line:
 #   /home/rcaillaud/.nimble/pkgs/nimterop-0.6.13/nimterop/toast --preprocess -m:c --recurse --pnim --dynlib=/home/rcaillaud/.cache/nim/nimterop/duckdb/libduckdb.so --nim:/home/rcaillaud/.choosenim/toolchains/nim-1.4.2/bin/nim --pluginSourcePath=/home/rcaillaud/.cache/nim/nimterop/cPlugins/nimterop_4294221179.nim /home/rcaillaud/.cache/nim/nimterop/duckdb/duckdb.h -o /home/rcaillaud/.cache/nim/nimterop/toastCache/nimterop_2066011615.nim
 
@@ -272,3 +274,4 @@ proc duckdb_destroy_prepare*(prepared_statement: ptr duckdb_prepared_statement) 
                                   ## ```
 {.pop.}
 
+# Saved to /home/rcaillaud/.cache/nim/nimterop/toastCache/nimterop_2066011615.nim
